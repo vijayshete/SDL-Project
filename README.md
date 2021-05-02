@@ -10,3 +10,8 @@ out a keyboard to find answers to questions like “What’s the weather today?�
 Despite the inherent “cool” factor that comes with using a digital assistant, you may find that the 
 aforementioned digital assistants don’t cater to your specific needs. Fortunately, it’s relatively 
 easy to build our own.
+
+OBJECTIVE :
+In this project we have build our own digital virtual assistant in Python, 
+complete with voice activation plus response to a few basic inquiries. 
+From here, we can customize it to perform whatever tasks we need most.
